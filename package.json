@@ -2,7 +2,7 @@
   "name": "my-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://yuriy-vasylevsky.github.io/my-react/",
+  "homepage": "http://yuriy-vasylevsky.github.io/react-hw-02-state/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
