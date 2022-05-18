@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/react-hw-02-state/static/css/main.31d6cfe0.css",
+    "main.js": "/react-hw-02-state/static/js/main.9efd0b42.js",
+    "index.html": "/react-hw-02-state/index.html",
+    "main.9efd0b42.js.map": "/react-hw-02-state/static/js/main.9efd0b42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.9efd0b42.js"
+  ]
+}
